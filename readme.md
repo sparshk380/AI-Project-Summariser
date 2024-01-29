@@ -10,7 +10,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_ai_summarizer.git
+git clone https://github.com/sparshk380/AI-Project-Summariser
 cd project_ai_summarizer
 ```
 
